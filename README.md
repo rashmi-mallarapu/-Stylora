@@ -25,4 +25,3 @@ HTML, CSS, JavaScript, GitHub Pages.
 ✅ Conclusion
 Stylora demonstrates rule‑based fashion assistance using predefined logic and visuals.
 
-Our Website Link here : https://rashmimallarapu.github.io/stylora/
